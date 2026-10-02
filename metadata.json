@@ -1,0 +1,6 @@
+{
+  "name": "LegalEase – AI Legal Assistant & Smart Document Generator",
+  "description": "AI-powered legal assistant to draft contracts, explain legal text in simple English, audit clauses, and download professional legal documents as PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
